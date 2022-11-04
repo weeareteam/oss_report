@@ -10,3 +10,4 @@
 - 처음에는 인텔CPU(80386)을 장착한 PC에서만 구동되었다가 그 이후 다양한 CPU와 워크스테이션에도 이식되었다.
 
 ## 리눅스의 등장배경
+[자유 소프트웨어 운동](https://github.com/amlslt/oss_report/blob/main/oss%20history.md)
