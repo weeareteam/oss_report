@@ -9,5 +9,5 @@
 - 당시 [미닉스(minix)](https://github.com/amlslt/git-study/blob/main/minix.md) 운영체제를 표방하여 학습적인 용도로 개발되어 유즈넷 뉴스그룹(comp.os.minux)에 초기버전을 발표했다. 
 - 처음에는 인텔CPU(80386)을 장착한 PC에서만 구동되었다가 그 이후 다양한 CPU와 워크스테이션에도 이식되었다.
 
-## 리눅스의 등장배경
-[자유 소프트웨어 운동](https://github.com/amlslt/oss_report/blob/main/oss%20history.md)
+## 리눅스의 등장배경(참고: [자유 소프트웨어 운동](https://github.com/amlslt/oss_report/blob/main/oss%20history.md))
+- 
