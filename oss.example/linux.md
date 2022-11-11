@@ -35,3 +35,6 @@
 - 안드로이드 계열
      - Android - 자신의 스마트폰이 아이폰이 아니라면 지금 쓰고 있는게 안드로이드다.
      - chrome OS
+
+
+출처: [gitbook](https://red04.gitbooks.io/red04-opensource/content/c624-d508-c18c-c2a4-b97c-c774-c6a9-d55c-c18c-d504-d2b8-c6e8-c5b4/1c624-d508-c18c-c2a4-c18c-d504-d2b8-c6e8-c5b4-c0ac-b840.html), [위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4)
