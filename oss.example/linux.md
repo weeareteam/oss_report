@@ -30,11 +30,11 @@
 - 슬랙웨어 계열
      - Slackware Linux - 가장 유닉스 다운 리눅스
 - 맨드리바 계열
-     - Open Mandriva Lx
+     - Open Man진행driva Lx
      - PCLinuxOS
 - 안드로이드 계열
      - Android - 현재 ios와 더불어 가장 많은 비중을 차지한다
-     - chrome OS
+     - chrome OS - 교육용 데스크탑 시장에서 큰 성장을 진행중이다.
 
 
 출처: [gitbook](https://red04.gitbooks.io/red04-opensource/content/c624-d508-c18c-c2a4-b97c-c774-c6a9-d55c-c18c-d504-d2b8-c6e8-c5b4/1c624-d508-c18c-c2a4-c18c-d504-d2b8-c6e8-c5b4-c0ac-b840.html), [위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4)
