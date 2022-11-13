@@ -33,7 +33,7 @@
      - Open Mandriva Lx
      - PCLinuxOS
 - 안드로이드 계열
-     - Android - 자신의 스마트폰이 아이폰이 아니라면 지금 쓰고 있는게 안드로이드다.
+     - Android - 현재 ios와 더불어 가장 많은 비중을 차지한다
      - chrome OS
 
 
