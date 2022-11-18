@@ -25,4 +25,6 @@
 > 제 3자 프로그램
 - Red Hat은 본건 프로그램의 부분이 아닌 제 3 자의 소프트웨어 프로그램을 본건 프로그램과 함께 배포할 수 있다.
 
-[출처](https://www.redhat.com/licenses/APAC_EULA_JBoss_Korean_20101110.pdf)
+> 출처
+- [레드헷](https://www.redhat.com/licenses/APAC_EULA_JBoss_Korean_20101110.pdf)
+- [JBOSS소개](https://jboss6.openmaru.io/docs/01.JBoss_Introduction.html)
