@@ -35,6 +35,7 @@
 - 안드로이드 계열
      - Android - 현재 ios와 더불어 가장 많은 비중을 차지한다
      - chrome OS - 교육용 데스크탑 시장에서 큰 성장을 진행중이다.
-
+ 
+<img src="https://user-images.githubusercontent.com/101091207/202621670-126989dc-9b41-4a12-ab4f-6e633a0dd129.PNG"><img src="https://user-images.githubusercontent.com/101091207/202622110-980e5779-e72c-4e94-9c4d-6aef132356a8.PNG">
 
 출처: [gitbook](https://red04.gitbooks.io/red04-opensource/content/c624-d508-c18c-c2a4-b97c-c774-c6a9-d55c-c18c-d504-d2b8-c6e8-c5b4/1c624-d508-c18c-c2a4-c18c-d504-d2b8-c6e8-c5b4-c0ac-b840.html), [위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4)
