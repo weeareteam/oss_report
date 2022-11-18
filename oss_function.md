@@ -60,6 +60,10 @@
 - 공지가 귀엽게 느껴지긴 처음. 진작 사용할 걸 그랬다.
 ![스크린샷(31)](https://user-images.githubusercontent.com/114068529/202739300-9f052609-d12d-4d3c-a4b3-00a200b49a46.png)
 
+- 라벨도 자체 제작이 가능하다
+
+![스크린샷(29)](https://user-images.githubusercontent.com/105197496/202740446-9b469cd6-17b3-4415-85a0-c338c638ef2a.png)
+
 <br>
 
 > **참조**
