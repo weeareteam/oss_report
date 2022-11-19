@@ -1,6 +1,6 @@
-## Eclipse Public License2.0
+## Eclipse Public License 2.0
 
-> **Eclipse Public License2.0**
+> **Eclipse Public License 2.0**
 
 - Eclipse 재단에서 자사의 소프트웨어를 위해 사용됨
 
