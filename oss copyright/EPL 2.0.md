@@ -53,4 +53,4 @@
 - 오픈소스 고지문에 사용자가 소스 코드를 수령할 수 있는 방법을 안내함으로써 소스 코드 제공 의무를 준수할 수 있다.
 
 >**출처**
-- [OLIS]([www.olis.or.kr](https://www.olis.or.kr/license/Detailselect.do?lId=1010&mapCode=010010&lType=osi))
+- [OLIS](https://www.olis.or.kr/license/Detailselect.do?lId=1010&mapCode=010010&lType=osi)
