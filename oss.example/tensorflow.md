@@ -1,7 +1,9 @@
 ## 📄 Tensorflow
 
 <img src="https://user-images.githubusercontent.com/114068529/199654804-4937c47c-1622-4cdb-9f85-78fce7d0508f.png" width=400 heigh=150>
+
 - 데이터를 의미하는 Tensor와 데이터플로우 그래프를 따라 연산이 수행되는 형태(Flow)를 합쳐 탄생했다.
+
 > 📗 <b>TensorFlow란?</b>
 - 구글이 2011년에 개발을 시작하여 2015년에 오픈 소스로 공개한 기게학습 라이브러리.
 - 딥러닝과 기계학습 분야를 일반인들도 사용하기 쉽도록 다양한 기능을 제공하고 있다.
